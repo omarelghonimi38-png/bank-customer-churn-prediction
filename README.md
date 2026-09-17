@@ -4,6 +4,11 @@ A Machine Learning project that predicts whether a bank customer is likely to le
 
 The project includes data preprocessing, exploratory data analysis, machine learning model training, model evaluation, and an interactive Streamlit application.
 
+## 🌐 Live Demo
+
+🚀 Try the deployed application here:
+
+[Open Bank Customer Churn Predictor](https://bank-customer-churn-prediction-zvdntfi39cunwdtxl8dfyg.streamlit.app/)
 ---
 
 ## 🎯 Project Objective
